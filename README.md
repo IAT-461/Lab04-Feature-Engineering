@@ -3,9 +3,9 @@ You can find this lab recorded version on **Data and Dialogue Lab** [YouTube cha
 
 ### Lab Task 04 Description
 
-In this repository, a file titled **lecture5_scaffold.ipynb** has been provided. You must complete this notebook according to the questions asked.
+In this repository, a file titled **lecture5_scaffold.ipynb** has been provided. You must complete the second feature discussed in this notebook.
 
-For each part, write a brief explanation about the non-obvious sections of your code to describe how they work. 
+For each block of your code, write a brief explanation about the non-obvious sections of your code to describe how they work. 
 
 ### Lab Task 04 Submission Guide
 
